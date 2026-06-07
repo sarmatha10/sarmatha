@@ -295,6 +295,3 @@ var user = {
         password:123456789
      }
 console.log(user);
-          
-
-
